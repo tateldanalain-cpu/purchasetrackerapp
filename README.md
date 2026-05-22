@@ -1,4 +1,3 @@
-# purchasetrackerapp
 # Purchases Tracker App
 
 ## Project Description
